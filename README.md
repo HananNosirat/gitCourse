@@ -1,2 +1,0 @@
-# gitCourse
-git
